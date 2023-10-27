@@ -1,0 +1,1828 @@
+[
+   {
+      "quoteId":1,
+      "authorId":1,
+      "quote":"I don't care about what nobody say or how nobody feel. I'm happy, I'm living my life, and that's what it is.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1992-October-22",
+      "name":"21 Savage"
+   },
+   {
+      "quoteId":2,
+      "authorId":1,
+      "quote":"Keep da money, cars, fame, and jewelry, and jus give me all the happiness - I'll be good forever.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1992-October-22",
+      "name":"21 Savage"
+   },
+   {
+      "quoteId":3,
+      "authorId":1,
+      "quote":"I'm humble and got a brain.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1992-October-22",
+      "name":"21 Savage"
+   },
+   {
+      "quoteId":4,
+      "authorId":3,
+      "quote":"I think it's important for us as a society to remember that the youth within juvenile justice systems are, most of the time, youths who simply haven't had the right mentors and supporters around them - because of circumstances beyond their control.",
+      "nationality":"German",
+      "profession":"Actress",
+      "born":"1990-February-11",
+      "name":"Q'orianka Kilcher"
+   },
+   {
+      "quoteId":5,
+      "authorId":2,
+      "quote":"I don't think anybody is a poet 24/7, only in those rare moments when a person is producing a poem.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1929-August-21",
+      "name":"X. J. Kennedy"
+   },
+   {
+      "quoteId":6,
+      "authorId":4,
+      "quote":"Every human being, of whatever origin, of whatever station, deserves respect. We must each respect others even as we respect ourselves.",
+      "profession":"Statesman",
+      "born":"1909-January-22",
+      "died":"1974-November-25",
+      "name":"U Thant"
+   },
+   {
+      "quoteId":7,
+      "authorId":3,
+      "quote":"Yes, I'm proud to be indigenous. I'm half-Quechua-Huachipaeri from Peru.",
+      "nationality":"German",
+      "profession":"Actress",
+      "born":"1990-February-11",
+      "name":"Q'orianka Kilcher"
+   },
+   {
+      "quoteId":8,
+      "authorId":1,
+      "quote":"I stopped wearing jewelry for a couple of reasons. One is because everybody wears jewelry. I outgrew it; I'm getting a little wiser and growing, so... Another reason is because the richest people that I've ever met in my life, they've never had on jewelry.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1992-October-22",
+      "name":"21 Savage"
+   },
+   {
+      "quoteId":9,
+      "authorId":4,
+      "quote":"Wars begin in the minds of men, and in those minds, love and compassion would have built the defenses of peace.",
+      "profession":"Statesman",
+      "born":"1909-January-22",
+      "died":"1974-November-25",
+      "name":"U Thant"
+   },
+   {
+      "quoteId":10,
+      "authorId":5,
+      "quote":"When you're wearing a motorcycle helmet, people don't know who you are. So I just wander around and, yeah, it's pretty awesome.",
+      "nationality":"American",
+      "profession":"Musician",
+      "name":"Zac Brown"
+   },
+   {
+      "quoteId":11,
+      "authorId":16,
+      "quote":"The beautiful thing about learning is nobody can take it away from you.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1925-September-16",
+      "died":"2015-May-14",
+      "name":"B. B. King"
+   },
+   {
+      "quoteId":12,
+      "authorId":2,
+      "quote":"My real name is Joe Kennedy, but if you live in Massachusetts, you can't sign 'Joe Kennedy.' So, back in 1957, I stuck the X on my name to be different from those people in Hyannis Port.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1929-August-21",
+      "name":"X. J. Kennedy"
+   },
+   {
+      "quoteId":13,
+      "authorId":12,
+      "quote":"As a successful romantic novelist - one of my publishers is Mills & Boon - I create the sort of male heroes that no woman could fail to adore and few real men could hope to emulate.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1960",
+      "name":"P. C. Cast"
+   },
+   {
+      "quoteId":14,
+      "authorId":11,
+      "quote":"On Monday mornings I am dedicated to the proposition that all men are created jerks.",
+      "nationality":"American",
+      "profession":"Journalist",
+      "born":"1907-December-19",
+      "died":"1976-February-24",
+      "name":"H. Allen Smith"
+   },
+   {
+      "quoteId":15,
+      "authorId":8,
+      "quote":"All governments are run by liars and nothing they say should be believed.",
+      "nationality":"American",
+      "profession":"Journalist",
+      "born":"1907-December-24",
+      "died":"1989-June-18",
+      "name":"I. F. Stone"
+   },
+   {
+      "quoteId":16,
+      "authorId":10,
+      "quote":"The people of Somalia just do not have a voice. They are to me the most forgotten people in the world.",
+      "nationality":"Somali",
+      "profession":"Musician",
+      "born":"1978-February-1",
+      "name":"K'naan"
+   },
+   {
+      "quoteId":17,
+      "authorId":15,
+      "quote":"Whether you're a DJ, whether you a rapper, whether you a producer, take it seriously. This is an occupation - you can get paid - don't expect to blow up overnight, and appreciate when you do get paid any type of money, appreciate it.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1967-November-15",
+      "name":"E-40"
+   },
+   {
+      "quoteId":18,
+      "authorId":13,
+      "quote":"I am not a superstar or an ego. I am just the same as I always was: Someone who plays football.",
+      "nationality":"French",
+      "profession":"Athlete",
+      "born":"1991-March-29",
+      "name":"N'Golo Kante"
+   },
+   {
+      "quoteId":19,
+      "authorId":6,
+      "quote":"Fencing is a game of living chess, a match where reflexes only work in combination with intent, and mind and body must work together at every moment.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1987-July-7",
+      "name":"V. E. Schwab"
+   },
+   {
+      "quoteId":20,
+      "authorId":9,
+      "quote":"Have confidence in everything. No matter what it is that you're doing, know that you can do it better than anyone.",
+      "nationality":"American",
+      "profession":"Actor",
+      "born":"1991-February-24",
+      "name":"O'Shea Jackson, Jr."
+   },
+   {
+      "quoteId":21,
+      "authorId":7,
+      "quote":"I'm originally from New York, and I just have a love affair with that place.",
+      "nationality":"American",
+      "profession":"Actor",
+      "born":"1988-August-19",
+      "name":"Y'lan Noel"
+   },
+   {
+      "quoteId":22,
+      "authorId":14,
+      "quote":"It never occurred to me that we would have as grandiose a program as the Marshall Plan, but I felt that we had to do something to save Europe from economic disaster which would encourage the Communist takeover.",
+      "nationality":"American",
+      "profession":"Politician",
+      "born":"1891-November-15",
+      "died":"1986-July-26",
+      "name":"W. Averell Harriman"
+   },
+   {
+      "quoteId":23,
+      "authorId":17,
+      "quote":"The world continues to offer glittering prizes to those who have stout hearts and sharp swords.",
+      "nationality":"British",
+      "profession":"Statesman",
+      "born":"1872-July-12",
+      "died":"1930-September-30",
+      "name":"F. E. Smith"
+   },
+   {
+      "quoteId":24,
+      "authorId":21,
+      "quote":"'Bagdad Cafe' was a film that changed many, many people's lives... how they saw themselves and how they looked at their life situation. I thought I made a little movie. All the mail that I get is about how it changed lives, and that's wonderful.",
+      "profession":"Actress",
+      "born":"1952-December-25",
+      "name":"C. C. H. Pounder"
+   },
+   {
+      "quoteId":25,
+      "authorId":20,
+      "quote":"You have to believe in yourself, challenge yourself, and push yourself until the very end; that's the only way you'll succeed.",
+      "nationality":"South Korean",
+      "profession":"Musician",
+      "born":"1988-August-18",
+      "name":"G-Dragon"
+   },
+   {
+      "quoteId":26,
+      "authorId":18,
+      "quote":"You know, the thing that struck me about Civil War music was how bloody it was; it was full of hatred. There was incredible vitriol in it.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1948-January-14",
+      "name":"T Bone Burnett"
+   },
+   {
+      "quoteId":27,
+      "authorId":12,
+      "quote":"With a young-adult series, you need to get a lot of books out on the market quickly. Teenagers aren't going to wait years and years for the next book.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1960",
+      "name":"P. C. Cast"
+   },
+   {
+      "quoteId":28,
+      "authorId":3,
+      "quote":"I used to have all these plans and think 'Ah, I have my whole life figured out', but then I realized no matter how much I plan: life happens! So I find myself living day to day trying to do my best, embracing every moment as a learning opportunity and chance to get to know myself a little more.",
+      "nationality":"German",
+      "profession":"Actress",
+      "born":"1990-February-11",
+      "name":"Q'orianka Kilcher"
+   },
+   {
+      "quoteId":29,
+      "authorId":19,
+      "quote":"When you find your niche, you just gotta continue to be confident and thrive in it.",
+      "nationality":"American",
+      "profession":"Athlete",
+      "born":"1996-February-23",
+      "name":"D'Angelo Russell"
+   },
+   {
+      "quoteId":30,
+      "authorId":13,
+      "quote":"My favorite thing is when we lift a trophy. Afterward, we can have a picture of us lifting a trophy. And that picture shows a lot of work, a lot of difficulty and a lot of sacrifice together.",
+      "nationality":"French",
+      "profession":"Athlete",
+      "born":"1991-March-29",
+      "name":"N'Golo Kante"
+   },
+   {
+      "quoteId":31,
+      "authorId":15,
+      "quote":"I'm a corporate thug. That's the best way to be.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1967-November-15",
+      "name":"E-40"
+   },
+   {
+      "quoteId":32,
+      "authorId":3,
+      "quote":"I just want to learn even more about my culture and about the Algonquin culture because I fell in love with Pocahontas and the Algonquin tribe.",
+      "nationality":"German",
+      "profession":"Actress",
+      "born":"1990-February-11",
+      "name":"Q'orianka Kilcher"
+   },
+   {
+      "quoteId":33,
+      "authorId":21,
+      "quote":"With acting, I started very young, and I'd performed for a lot of children in boarding schools, late at night after the dormitory lights were out. I'd have a flashlight, and I'd be Count Dracula, or Shakespeare, or Yogi Bear, and leap from bunk to bunk. I loved the laughter; I liked the way it made people feel.",
+      "profession":"Actress",
+      "born":"1952-December-25",
+      "name":"C. C. H. Pounder"
+   },
+   {
+      "quoteId":34,
+      "authorId":19,
+      "quote":"I just know what I'm capable of. When I don't do it, you can always throw the excuse - you're young, it's a process, this and that - but I know what I can do. Just staying patient and just keep putting in hard work and keep God first and the sky is the limit.",
+      "nationality":"American",
+      "profession":"Athlete",
+      "born":"1996-February-23",
+      "name":"D'Angelo Russell"
+   },
+   {
+      "quoteId":35,
+      "authorId":11,
+      "quote":"The human animal differs from the lesser primates in his passion for lists.",
+      "nationality":"American",
+      "profession":"Journalist",
+      "born":"1907-December-19",
+      "died":"1976-February-24",
+      "name":"H. Allen Smith"
+   },
+   {
+      "quoteId":36,
+      "authorId":17,
+      "quote":"Good God, do you mean to say this place is a club?",
+      "nationality":"British",
+      "profession":"Statesman",
+      "born":"1872-July-12",
+      "died":"1930-September-30",
+      "name":"F. E. Smith"
+   },
+   {
+      "quoteId":37,
+      "authorId":12,
+      "quote":"Kids definitely go into bookstores after reading 'Twilight' and want something else like it.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1960",
+      "name":"P. C. Cast"
+   },
+   {
+      "quoteId":38,
+      "authorId":18,
+      "quote":"I think we in the Alpha Band, which was a strange group anyway, weren't dealing with any of these issues. They sneaked up on us and took us over, before we know what was going on.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1948-January-14",
+      "name":"T Bone Burnett"
+   },
+   {
+      "quoteId":39,
+      "authorId":14,
+      "quote":"We became convinced that, regardless of Stalin's awful brutality and his reign of terror, he was a great war leader. Without Stalin, they never would have held.",
+      "nationality":"American",
+      "profession":"Politician",
+      "born":"1891-November-15",
+      "died":"1986-July-26",
+      "name":"W. Averell Harriman"
+   },
+   {
+      "quoteId":40,
+      "authorId":5,
+      "quote":"If I hear one more tailgate in the moonlight, Daisy Dukes song, I wanna throw up.",
+      "nationality":"American",
+      "profession":"Musician",
+      "name":"Zac Brown"
+   },
+   {
+      "quoteId":41,
+      "authorId":20,
+      "quote":"I always think today is better than yesterday, and tomorrow is better than today.",
+      "nationality":"South Korean",
+      "profession":"Musician",
+      "born":"1988-August-18",
+      "name":"G-Dragon"
+   },
+   {
+      "quoteId":42,
+      "authorId":2,
+      "quote":"As a writer given to the old formalities of rhyme and meter, I sometimes feel endangered these days.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1929-August-21",
+      "name":"X. J. Kennedy"
+   },
+   {
+      "quoteId":43,
+      "authorId":8,
+      "quote":"Every government is run by liars and nothing they say should be believed.",
+      "nationality":"American",
+      "profession":"Journalist",
+      "born":"1907-December-24",
+      "died":"1989-June-18",
+      "name":"I. F. Stone"
+   },
+   {
+      "quoteId":44,
+      "authorId":6,
+      "quote":"I love being new places and hate getting there, and have been known to say on multiple occasions that I would give anything from a piece of my soul to a limb to a portion of my life savings to teleport. Especially when bad weather keeps me off planes.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1987-July-7",
+      "name":"V. E. Schwab"
+   },
+   {
+      "quoteId":45,
+      "authorId":10,
+      "quote":"From the stage, I can reach a large audience, and you learn from being on stage how much a song reaches, what extent of the crowd a song can reach. I write in a way that can reach most of the audience, but I also wanted to have truly intimate moments as well, many intimate moments, more so than the big moments.",
+      "nationality":"Somali",
+      "profession":"Musician",
+      "born":"1978-February-1",
+      "name":"K'naan"
+   },
+   {
+      "quoteId":46,
+      "authorId":16,
+      "quote":"I've said that playing the blues is like having to be black twice. Stevie Ray Vaughan missed on both counts, but I never noticed.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1925-September-16",
+      "died":"2015-May-14",
+      "name":"B. B. King"
+   },
+   {
+      "quoteId":47,
+      "authorId":24,
+      "quote":"I want to keep grabbing, keep reaching, keep crawling, keep grinding and excelling until I can go no higher.",
+      "nationality":"American",
+      "profession":"Wrestler",
+      "born":"1972-January-19",
+      "name":"R-Truth"
+   },
+   {
+      "quoteId":48,
+      "authorId":27,
+      "quote":"I don't worry about great visuals that they showed that weren't actually running on real hardware. It doesn't matter. Gamers don't make their purchase decisions based on movies that were shown in May for products that come out in March.",
+      "nationality":"American",
+      "profession":"Scientist",
+      "name":"J Allard"
+   },
+   {
+      "quoteId":49,
+      "authorId":4,
+      "quote":"The war we have to wage today has only one goal and that is to make the world safe for diversity.",
+      "profession":"Statesman",
+      "born":"1909-January-22",
+      "died":"1974-November-25",
+      "name":"U Thant"
+   },
+   {
+      "quoteId":50,
+      "authorId":22,
+      "quote":"I believe in stopping work and eating lunch.",
+      "nationality":"American",
+      "profession":"Designer",
+      "born":"1964-April-28",
+      "died":"2014-March-17",
+      "name":"L'Wren Scott"
+   },
+   {
+      "quoteId":51,
+      "authorId":26,
+      "quote":"Being self-made means putting yourself in position to help others put themselves in position to be successful.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1995-December-6",
+      "name":"A Boogie wit da Hoodie"
+   },
+   {
+      "quoteId":52,
+      "authorId":23,
+      "quote":"A writer has a difficult fate, but a Jewish writer has an especially difficult fate. His soul is torn; he lives on two streets with three languages. It is a misfortune to live on this sort of 'border,' and that is what I have experienced.",
+      "nationality":"Russian",
+      "profession":"Author",
+      "born":"1863",
+      "died":"1920",
+      "name":"S. Ansky"
+   },
+   {
+      "quoteId":53,
+      "authorId":19,
+      "quote":"I really don't know what it takes to make it to the playoffs.",
+      "nationality":"American",
+      "profession":"Athlete",
+      "born":"1996-February-23",
+      "name":"D'Angelo Russell"
+   },
+   {
+      "quoteId":54,
+      "authorId":1,
+      "quote":"I'm not dumb by a long shot. I'm just bad.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1992-October-22",
+      "name":"21 Savage"
+   },
+   {
+      "quoteId":55,
+      "authorId":7,
+      "quote":"I don't think I'll ever get to a place where I'm super kumbaya coming into an audition room.",
+      "nationality":"American",
+      "profession":"Actor",
+      "born":"1988-August-19",
+      "name":"Y'lan Noel"
+   },
+   {
+      "quoteId":56,
+      "authorId":9,
+      "quote":"Our trials and our times of pain get the most recognition, but 'Straight Outta Compton' speaks to triumph. When it's doubtful, when nobody is on your side, when your back is against the wall, you triumph and make it through. Showing growth through movies promotes growth.",
+      "nationality":"American",
+      "profession":"Actor",
+      "born":"1991-February-24",
+      "name":"O'Shea Jackson, Jr."
+   },
+   {
+      "quoteId":57,
+      "authorId":25,
+      "quote":"I don't use drugs, my dreams are frightening enough.",
+      "nationality":"Dutch",
+      "profession":"Artist",
+      "born":"1898-June-17",
+      "died":"1972-March-27",
+      "name":"M. C. Escher"
+   },
+   {
+      "quoteId":58,
+      "authorId":18,
+      "quote":"In other words, I'd say the whole story of Bob Dylan is one man's search for God. The turns and the steps he takes to find God are his business. I think he went to a study group at the Vineyard, and it created a lot of excitement.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1948-January-14",
+      "name":"T Bone Burnett"
+   },
+   {
+      "quoteId":59,
+      "authorId":5,
+      "quote":"I try to get away and take my motorcycle on a ride whenever I can. I'll take my bike out before the show and just cruise.",
+      "nationality":"American",
+      "profession":"Musician",
+      "name":"Zac Brown"
+   },
+   {
+      "quoteId":60,
+      "authorId":21,
+      "quote":"When I was a kid, a pickleball hit me in the back of the head, and I had memory problems. I was in a boarding school and the nuns gave me poems to remember to try and get the memory going again.",
+      "profession":"Actress",
+      "born":"1952-December-25",
+      "name":"C. C. H. Pounder"
+   },
+   {
+      "quoteId":61,
+      "authorId":3,
+      "quote":"I know that might sound silly coming from someone my age, but I remember on my 14th birthday having a crisis like my mom should be having. I kept thinking that I was getting older, and I haven't really accomplished anything. I remember thinking that I better accomplish something real soon.",
+      "nationality":"German",
+      "profession":"Actress",
+      "born":"1990-February-11",
+      "name":"Q'orianka Kilcher"
+   },
+   {
+      "quoteId":62,
+      "authorId":15,
+      "quote":"I'm a survivor, man. I done had my ups and downs, but I've got get-back skills for real for real. I refuse to fall.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1967-November-15",
+      "name":"E-40"
+   },
+   {
+      "quoteId":63,
+      "authorId":8,
+      "quote":"Every emancipation has in it the seeds of a new slavery, and every truth easily becomes a lie.",
+      "nationality":"American",
+      "profession":"Journalist",
+      "born":"1907-December-24",
+      "died":"1989-June-18",
+      "name":"I. F. Stone"
+   },
+   {
+      "quoteId":64,
+      "authorId":12,
+      "quote":"Vampires are super sexy.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1960",
+      "name":"P. C. Cast"
+   },
+   {
+      "quoteId":65,
+      "authorId":2,
+      "quote":"To me, a poem that's in rhyme and meter is the difference between watching a film in full color and watching a film in black and white. Not that a few black and white films aren't wonderful. So are certain successful pieces of free verse.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1929-August-21",
+      "name":"X. J. Kennedy"
+   },
+   {
+      "quoteId":66,
+      "authorId":1,
+      "quote":"Even if I ain't the famous-est, the richest, the best - as long as I know I kept it real and didn't backstab nobody - I sleep good at night.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1992-October-22",
+      "name":"21 Savage"
+   },
+   {
+      "quoteId":67,
+      "authorId":6,
+      "quote":"It's not what people do that matters, it's why they do it.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1987-July-7",
+      "name":"V. E. Schwab"
+   },
+   {
+      "quoteId":68,
+      "authorId":13,
+      "quote":"It is good to win awards but the most important is to win together.",
+      "nationality":"French",
+      "profession":"Athlete",
+      "born":"1991-March-29",
+      "name":"N'Golo Kante"
+   },
+   {
+      "quoteId":69,
+      "authorId":10,
+      "quote":"Hip-hop in Africa has been very often a duplication of an American experience, but in a context that's totally alien to it.",
+      "nationality":"Somali",
+      "profession":"Musician",
+      "born":"1978-February-1",
+      "name":"K'naan"
+   },
+   {
+      "quoteId":70,
+      "authorId":26,
+      "quote":"I can't even lie: Sometimes, I be antisocial.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1995-December-6",
+      "name":"A Boogie wit da Hoodie"
+   },
+   {
+      "quoteId":71,
+      "authorId":5,
+      "quote":"I was probably 21 or 22 years old when I realized the prose that I live by, which is, 'You get what you give.' The more good deeds that you could do in your life, the more fulfilling and enriched your life is going to be. I truly believe that.",
+      "nationality":"American",
+      "profession":"Musician",
+      "name":"Zac Brown"
+   },
+   {
+      "quoteId":72,
+      "authorId":23,
+      "quote":"All a Jew has to do is recite a few proverbs or anecdotes to consider himself an expert on 'Jewishness.'",
+      "nationality":"Russian",
+      "profession":"Author",
+      "born":"1863",
+      "died":"1920",
+      "name":"S. Ansky"
+   },
+   {
+      "quoteId":73,
+      "authorId":7,
+      "quote":"It would take some encouragement for me to accept other people's opinions on how I should present my work because my work means a lot to me.",
+      "nationality":"American",
+      "profession":"Actor",
+      "born":"1988-August-19",
+      "name":"Y'lan Noel"
+   },
+   {
+      "quoteId":74,
+      "authorId":27,
+      "quote":"When we get the final hardware, the performance is just going to skyrocket.",
+      "nationality":"American",
+      "profession":"Scientist",
+      "name":"J Allard"
+   },
+   {
+      "quoteId":75,
+      "authorId":24,
+      "quote":"Hulk Hogan convinced me that WrestleMania was where my goals needed to be at.",
+      "nationality":"American",
+      "profession":"Wrestler",
+      "born":"1972-January-19",
+      "name":"R-Truth"
+   },
+   {
+      "quoteId":76,
+      "authorId":16,
+      "quote":"Blues is a tonic for whatever ails you. I could play the blues and then not be blue anymore.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1925-September-16",
+      "died":"2015-May-14",
+      "name":"B. B. King"
+   },
+   {
+      "quoteId":77,
+      "authorId":22,
+      "quote":"Peruvian food is so simple yet amazingly flavored with their traditional spices.",
+      "nationality":"American",
+      "profession":"Designer",
+      "born":"1964-April-28",
+      "died":"2014-March-17",
+      "name":"L'Wren Scott"
+   },
+   {
+      "quoteId":78,
+      "authorId":15,
+      "quote":"My mom and dad divorced when I was 8 years old, but my Dad never left my life. We would go over there on weekends and he'd be playing his guitar, listening to Bobby Blue Bland and B. B. King and KBLX radio while he was out in the garage painting custom cars.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1967-November-15",
+      "name":"E-40"
+   },
+   {
+      "quoteId":79,
+      "authorId":18,
+      "quote":"It's also ironic that in the old days of tape and tape hiss and vinyl records and surface noise, we were always trying to get records louder and louder to overcome that.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1948-January-14",
+      "name":"T Bone Burnett"
+   },
+   {
+      "quoteId":80,
+      "authorId":25,
+      "quote":"Only those who attempt the absurd will achieve the impossible. I think it's in my basement... let me go upstairs and check.",
+      "nationality":"Dutch",
+      "profession":"Artist",
+      "born":"1898-June-17",
+      "died":"1972-March-27",
+      "name":"M. C. Escher"
+   },
+   {
+      "quoteId":81,
+      "authorId":9,
+      "quote":"I want more movies like 'Straight Outta Compton.' Showing our stories of triumph, we'll make it through, and we'll get to something better.",
+      "nationality":"American",
+      "profession":"Actor",
+      "born":"1991-February-24",
+      "name":"O'Shea Jackson, Jr."
+   },
+   {
+      "quoteId":82,
+      "authorId":20,
+      "quote":"It doesn't matter what kind of clothes you put on: if you're a stylish individual, you're going to preserve that.",
+      "nationality":"South Korean",
+      "profession":"Musician",
+      "born":"1988-August-18",
+      "name":"G-Dragon"
+   },
+   {
+      "quoteId":83,
+      "authorId":21,
+      "quote":"Applause is the most powerful thing... people talk about the sound of it, but what I hear is glee.",
+      "profession":"Actress",
+      "born":"1952-December-25",
+      "name":"C. C. H. Pounder"
+   },
+   {
+      "quoteId":84,
+      "authorId":14,
+      "quote":"We both agreed that Stalin was determined to hold out against the Germans. He told us he'd never let them get to Moscow. But if he was wrong, they'd go back to the Urals and fight. They'd never surrender.",
+      "nationality":"American",
+      "profession":"Politician",
+      "born":"1891-November-15",
+      "died":"1986-July-26",
+      "name":"W. Averell Harriman"
+   },
+   {
+      "quoteId":85,
+      "authorId":30,
+      "quote":"I am not a fitness freak, but I do my regular exercises.",
+      "nationality":"Indian",
+      "profession":"Actor",
+      "born":"1980-June-26",
+      "died":"2014-January-5",
+      "name":"Uday Kiran"
+   },
+   {
+      "quoteId":86,
+      "authorId":10,
+      "quote":"I enjoy meditation. I think the artist's position is often to mend the things we feel are broken. Whether that's between two cultures or two thoughts. We're always trying to reach, trying to expand something.",
+      "nationality":"Somali",
+      "profession":"Musician",
+      "born":"1978-February-1",
+      "name":"K'naan"
+   },
+   {
+      "quoteId":87,
+      "authorId":19,
+      "quote":"I'll let my game speak for itself.",
+      "nationality":"American",
+      "profession":"Athlete",
+      "born":"1996-February-23",
+      "name":"D'Angelo Russell"
+   },
+   {
+      "quoteId":88,
+      "authorId":23,
+      "quote":"Bearing an eternal longing for Jewishness, I threw myself in all directions and left to work for another people. I am not one of those lucky ones raised in their own environment, whose work is normal.",
+      "nationality":"Russian",
+      "profession":"Author",
+      "born":"1863",
+      "died":"1920",
+      "name":"S. Ansky"
+   },
+   {
+      "quoteId":89,
+      "authorId":8,
+      "quote":"Rich people march on Washington every day.",
+      "nationality":"American",
+      "profession":"Journalist",
+      "born":"1907-December-24",
+      "died":"1989-June-18",
+      "name":"I. F. Stone"
+   },
+   {
+      "quoteId":90,
+      "authorId":22,
+      "quote":"I don't really measure success by anything other than if I am happy. That is success to me. Am I happy waking up every morning? And despite the challenges of running my own business, do I look forward to going to work? Absolutely.",
+      "nationality":"American",
+      "profession":"Designer",
+      "born":"1964-April-28",
+      "died":"2014-March-17",
+      "name":"L'Wren Scott"
+   },
+   {
+      "quoteId":91,
+      "authorId":15,
+      "quote":"I've been in the game a long time. I've done all sorts of different types of music. From mob music to the G-Funk era.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1967-November-15",
+      "name":"E-40"
+   },
+   {
+      "quoteId":92,
+      "authorId":28,
+      "quote":"Creativity is a mansion. If you're empty in one room, all you have to do is go out into the hallway and enter another room that's full.",
+      "nationality":"American",
+      "profession":"Director",
+      "born":"1969-July-17",
+      "name":"F. Gary Gray"
+   },
+   {
+      "quoteId":93,
+      "authorId":18,
+      "quote":"I'm not going to get in to an argument with anyone about the relative merits of Judaism and Christianity, and what it means for a Jewish kid to be a Christian - I'm just not interested in that argument.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1948-January-14",
+      "name":"T Bone Burnett"
+   },
+   {
+      "quoteId":94,
+      "authorId":3,
+      "quote":"The things I do, I do from the heart and out of love and respect for our planet and all living things. And I draw my courage from my love for justice and truth, and I calm my fears by comforting those who are more scared than me. And I try to do my best to make the world a better place, one small action at a time, as good as I can.",
+      "nationality":"German",
+      "profession":"Actress",
+      "born":"1990-February-11",
+      "name":"Q'orianka Kilcher"
+   },
+   {
+      "quoteId":95,
+      "authorId":5,
+      "quote":"Talent alone gets you nowhere. You really have to have the grit, and you gotta have a love for people.",
+      "nationality":"American",
+      "profession":"Musician",
+      "name":"Zac Brown"
+   },
+   {
+      "quoteId":96,
+      "authorId":9,
+      "quote":"Ice Cube's the coolest dad. A lot of parents - a lot of kids do not think their parents are cool. Oh, no. My dad's cool... You know, I was born in 1991. That's when 'Boyz n the Hood' came out. So I've always see him on TV. I don't see everybody else's dad, you know. So I've always had a sense of, you know, he's cool. He's in the light.",
+      "nationality":"American",
+      "profession":"Actor",
+      "born":"1991-February-24",
+      "name":"O'Shea Jackson, Jr."
+   },
+   {
+      "quoteId":97,
+      "authorId":27,
+      "quote":"Having wires strewn across your couch and across the floor is a big deal to a lot of people.",
+      "nationality":"American",
+      "profession":"Scientist",
+      "name":"J Allard"
+   },
+   {
+      "quoteId":98,
+      "authorId":12,
+      "quote":"I've seen a big shift, especially in my classroom, with women standing up and demanding respect. That's in every woman, whether 16, 26, 56.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1960",
+      "name":"P. C. Cast"
+   },
+   {
+      "quoteId":99,
+      "authorId":25,
+      "quote":"We adore chaos because we love to produce order.",
+      "nationality":"Dutch",
+      "profession":"Artist",
+      "born":"1898-June-17",
+      "died":"1972-March-27",
+      "name":"M. C. Escher"
+   },
+   {
+      "quoteId":100,
+      "authorId":26,
+      "quote":"Everything I do is me. I don't like taking ideas from people unless they're the G.O.A.T.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1995-December-6",
+      "name":"A Boogie wit da Hoodie"
+   },
+   {
+      "quoteId":101,
+      "authorId":21,
+      "quote":"I considered myself very lucky after 'Baghdad Cafe,' and I have 'The Shield.' In every genre, I've kicked butt at some point. I'm real happy.",
+      "profession":"Actress",
+      "born":"1952-December-25",
+      "name":"C. C. H. Pounder"
+   },
+   {
+      "quoteId":102,
+      "authorId":29,
+      "quote":"Faith is a higher faculty than reason.",
+      "nationality":"English",
+      "profession":"Writer",
+      "born":"1878",
+      "died":"1961",
+      "name":"H. C. Bailey"
+   },
+   {
+      "quoteId":103,
+      "authorId":6,
+      "quote":"I still get rejections - frequently - and my goal isn't to never fail, to never be turned down, but simply to succeed more often than I don't. And in order to do that, I have to constantly put myself out there, to judgment, critique, and rejection.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1987-July-7",
+      "name":"V. E. Schwab"
+   },
+   {
+      "quoteId":104,
+      "authorId":20,
+      "quote":"In order to keep my creativity alive, I just try to enjoy life to the fullest.",
+      "nationality":"South Korean",
+      "profession":"Musician",
+      "born":"1988-August-18",
+      "name":"G-Dragon"
+   },
+   {
+      "quoteId":105,
+      "authorId":14,
+      "quote":"Conferences at the top level are always courteous. Name-calling is left to the foreign ministers.",
+      "nationality":"American",
+      "profession":"Politician",
+      "born":"1891-November-15",
+      "died":"1986-July-26",
+      "name":"W. Averell Harriman"
+   },
+   {
+      "quoteId":106,
+      "authorId":24,
+      "quote":"I've kind of changed my diet, but in my diet rulebook, on section 5 paragraph A, there's a cheating plan. So, Corky's BBQ is one of my favorite spots to go to.",
+      "nationality":"American",
+      "profession":"Wrestler",
+      "born":"1972-January-19",
+      "name":"R-Truth"
+   },
+   {
+      "quoteId":107,
+      "authorId":1,
+      "quote":"That's the only thing I don't like - people always got something to say about my life. I don't know nothing about their life. People just judge you when they don't even know you.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1992-October-22",
+      "name":"21 Savage"
+   },
+   {
+      "quoteId":108,
+      "authorId":19,
+      "quote":"I'm part-time vegan. I try to be vegan when I can. But I dip and dive in everywhere.",
+      "nationality":"American",
+      "profession":"Athlete",
+      "born":"1996-February-23",
+      "name":"D'Angelo Russell"
+   },
+   {
+      "quoteId":109,
+      "authorId":13,
+      "quote":"We are lucky to be playing football for a living. For me, this is what I have always wanted to do.",
+      "nationality":"French",
+      "profession":"Athlete",
+      "born":"1991-March-29",
+      "name":"N'Golo Kante"
+   },
+   {
+      "quoteId":110,
+      "authorId":2,
+      "quote":"I like poems where you don't really know whether to laugh or cry when you read them.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1929-August-21",
+      "name":"X. J. Kennedy"
+   },
+   {
+      "quoteId":111,
+      "authorId":16,
+      "quote":"I wanted to connect my guitar to human emotions.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1925-September-16",
+      "died":"2015-May-14",
+      "name":"B. B. King"
+   },
+   {
+      "quoteId":112,
+      "authorId":30,
+      "quote":"We all have ups and downs in our career, and as an actor going through a rough patch, all I can do is keep working as hard as I can and hope for the best.",
+      "nationality":"Indian",
+      "profession":"Actor",
+      "born":"1980-June-26",
+      "died":"2014-January-5",
+      "name":"Uday Kiran"
+   },
+   {
+      "quoteId":113,
+      "authorId":18,
+      "quote":"If it is true that we have a personal relationship with God, then that's enough for me.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1948-January-14",
+      "name":"T Bone Burnett"
+   },
+   {
+      "quoteId":114,
+      "authorId":10,
+      "quote":"The only way I see the world now is through coming out of and growing up and living in Somalia. In the time of war, everyone was basically trying to live and manage the best they could. But you also had another period which was not a hard time at all - it was just a beautiful time. I lived in both eras.",
+      "nationality":"Somali",
+      "profession":"Musician",
+      "born":"1978-February-1",
+      "name":"K'naan"
+   },
+   {
+      "quoteId":115,
+      "authorId":22,
+      "quote":"Luxury is a state of mind.",
+      "nationality":"American",
+      "profession":"Designer",
+      "born":"1964-April-28",
+      "died":"2014-March-17",
+      "name":"L'Wren Scott"
+   },
+   {
+      "quoteId":116,
+      "authorId":14,
+      "quote":"Americans wanted to settle all our difficulties with Russia and then go to the movies and drink Coke.",
+      "nationality":"American",
+      "profession":"Politician",
+      "born":"1891-November-15",
+      "died":"1986-July-26",
+      "name":"W. Averell Harriman"
+   },
+   {
+      "quoteId":117,
+      "authorId":25,
+      "quote":"Are you really sure that a floor can't also be a ceiling?",
+      "nationality":"Dutch",
+      "profession":"Artist",
+      "born":"1898-June-17",
+      "died":"1972-March-27",
+      "name":"M. C. Escher"
+   },
+   {
+      "quoteId":118,
+      "authorId":26,
+      "quote":"No matter where I'm at in life, whether I'm in the music industry, rich, poor, everybody need love in their life. Gangsta or not, everybody need love in their life. You can't act too hard about that.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1995-December-6",
+      "name":"A Boogie wit da Hoodie"
+   },
+   {
+      "quoteId":119,
+      "authorId":27,
+      "quote":"We didn't have our online service developed. We had never shipped a console game before as a company. So we were developing a lot of new competencies as a company and assembling a new team.",
+      "nationality":"American",
+      "profession":"Scientist",
+      "name":"J Allard"
+   },
+   {
+      "quoteId":120,
+      "authorId":7,
+      "quote":"Sometimes hiding behind masculinity with your homies can get in the way of having a real dialogue.",
+      "nationality":"American",
+      "profession":"Actor",
+      "born":"1988-August-19",
+      "name":"Y'lan Noel"
+   },
+   {
+      "quoteId":121,
+      "authorId":9,
+      "quote":"This entire cast, N.W.A, was an all-star group, and I really feel like people are going to look at 'Straight Outta Compton' years from now like this was an all-star cast.",
+      "nationality":"American",
+      "profession":"Actor",
+      "born":"1991-February-24",
+      "name":"O'Shea Jackson, Jr."
+   },
+   {
+      "quoteId":122,
+      "authorId":21,
+      "quote":"I don't have a problem with recognition... It's very, very rarely about who I am, it's always, 'I love your work.'... It's always in relation to my work, which I think is a really lucky thing to have happen as opposed to, 'Oh, you're a famous personality.'",
+      "profession":"Actress",
+      "born":"1952-December-25",
+      "name":"C. C. H. Pounder"
+   },
+   {
+      "quoteId":123,
+      "authorId":8,
+      "quote":"The only thing God didn't do to Job was give him a computer.",
+      "nationality":"American",
+      "profession":"Journalist",
+      "born":"1907-December-24",
+      "died":"1989-June-18",
+      "name":"I. F. Stone"
+   },
+   {
+      "quoteId":124,
+      "authorId":23,
+      "quote":"When I first stepped into literature twenty-five years ago, I wanted to work on behalf of the oppressed, the working masses, and it seemed to me, mistakenly, that I would not find them among the Jews.",
+      "nationality":"Russian",
+      "profession":"Author",
+      "born":"1863",
+      "died":"1920",
+      "name":"S. Ansky"
+   },
+   {
+      "quoteId":125,
+      "authorId":3,
+      "quote":"My birthday is Feb. 11, and I'm both excited and not excited by it. You'll never be 15 again, and you really, really need to savor every day like it's your last.",
+      "nationality":"German",
+      "profession":"Actress",
+      "born":"1990-February-11",
+      "name":"Q'orianka Kilcher"
+   },
+   {
+      "quoteId":126,
+      "authorId":5,
+      "quote":"All my siblings being all different ages meant I got exposed to music that was 20-30 years older than me. And that was a big influence.",
+      "nationality":"American",
+      "profession":"Musician",
+      "name":"Zac Brown"
+   },
+   {
+      "quoteId":127,
+      "authorId":13,
+      "quote":"There are millions of ­people out there, who every day want to get the opportunity to do the work we are doing and it's a short career. That is why I give it my all at every given opportunity.",
+      "nationality":"French",
+      "profession":"Athlete",
+      "born":"1991-March-29",
+      "name":"N'Golo Kante"
+   },
+   {
+      "quoteId":128,
+      "authorId":19,
+      "quote":"A lot of teams - they want a point guard and I am bouncing around, why not put me in those talks and try to get me?",
+      "nationality":"American",
+      "profession":"Athlete",
+      "born":"1996-February-23",
+      "name":"D'Angelo Russell"
+   },
+   {
+      "quoteId":129,
+      "authorId":28,
+      "quote":"Success is really about your mindset.",
+      "nationality":"American",
+      "profession":"Director",
+      "born":"1969-July-17",
+      "name":"F. Gary Gray"
+   },
+   {
+      "quoteId":130,
+      "authorId":1,
+      "quote":"I'm Ifa. I grew up practicing Ifa, my mom is Ifa, my whole family is Ifa.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1992-October-22",
+      "name":"21 Savage"
+   },
+   {
+      "quoteId":131,
+      "authorId":29,
+      "quote":"In order to be a realist you must believe in miracles.",
+      "nationality":"English",
+      "profession":"Writer",
+      "born":"1878",
+      "died":"1961",
+      "name":"H. C. Bailey"
+   },
+   {
+      "quoteId":132,
+      "authorId":12,
+      "quote":"If you're too scared to put your dreams, thoughts, desires, fantasies on paper and share them with the world, then being an author isn't the right career for you.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1960",
+      "name":"P. C. Cast"
+   },
+   {
+      "quoteId":133,
+      "authorId":20,
+      "quote":"Whatever I like, even after a long time, I still like it. And I reminisce about the moment when I first heard it. That's what I love. Just remembering those moments.",
+      "nationality":"South Korean",
+      "profession":"Musician",
+      "born":"1988-August-18",
+      "name":"G-Dragon"
+   },
+   {
+      "quoteId":134,
+      "authorId":6,
+      "quote":"I was fourteen, watching 'The Princess Bride' for the 254321th time, captivated by Wesley and Inigo dueling on the cliff-top. I had never held a sword in my life, but I phoned my mum and said, 'I want to learn to fence!'",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1987-July-7",
+      "name":"V. E. Schwab"
+   },
+   {
+      "quoteId":135,
+      "authorId":10,
+      "quote":"Somalis really are very musically sophisticated, and they're about their own thing.",
+      "nationality":"Somali",
+      "profession":"Musician",
+      "born":"1978-February-1",
+      "name":"K'naan"
+   },
+   {
+      "quoteId":136,
+      "authorId":15,
+      "quote":"I don't wanna be like everybody else, I don't wanna rap like everybody else.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1967-November-15",
+      "name":"E-40"
+   },
+   {
+      "quoteId":137,
+      "authorId":2,
+      "quote":"The attitude that poetry should not be analyzed is prevalent among many who consider themselves experts on children's literature. But I suspected that kids like to look closely at things and figure out what makes them go.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1929-August-21",
+      "name":"X. J. Kennedy"
+   },
+   {
+      "quoteId":138,
+      "authorId":30,
+      "quote":"I have always watched my close friends fall in love, but I never thought it would happen to me.",
+      "nationality":"Indian",
+      "profession":"Actor",
+      "born":"1980-June-26",
+      "died":"2014-January-5",
+      "name":"Uday Kiran"
+   },
+   {
+      "quoteId":139,
+      "authorId":24,
+      "quote":"I'm a grown man now, I've got a family, I understand responsibility.",
+      "nationality":"American",
+      "profession":"Wrestler",
+      "born":"1972-January-19",
+      "name":"R-Truth"
+   },
+   {
+      "quoteId":140,
+      "authorId":18,
+      "quote":"I naturally wanted to be saved, so when I came home I told my mom I wanted to be confirmed. That's the way I related to it, being raised an Episcopalian. I went to Dallas and got confirmed.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1948-January-14",
+      "name":"T Bone Burnett"
+   },
+   {
+      "quoteId":141,
+      "authorId":16,
+      "quote":"I'm trying to get people to see that we are our brother's keeper. Red, white, black, brown or yellow, rich or poor, we all have the blues.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1925-September-16",
+      "died":"2015-May-14",
+      "name":"B. B. King"
+   },
+   {
+      "quoteId":142,
+      "authorId":27,
+      "quote":"We're going to do something that's really unprecedented in the industry by launching the console in all three major markets for the same holiday. It's never been done before.",
+      "nationality":"American",
+      "profession":"Scientist",
+      "name":"J Allard"
+   },
+   {
+      "quoteId":143,
+      "authorId":25,
+      "quote":"He who wonders discovers that this in itself is wonder.",
+      "nationality":"Dutch",
+      "profession":"Artist",
+      "born":"1898-June-17",
+      "died":"1972-March-27",
+      "name":"M. C. Escher"
+   },
+   {
+      "quoteId":144,
+      "authorId":15,
+      "quote":"I've got a big heart and I believe in good karma.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1967-November-15",
+      "name":"E-40"
+   },
+   {
+      "quoteId":145,
+      "authorId":3,
+      "quote":"I always wanted to be a singer, and so, when I was 5 years old, I started acting classes so I could be a better performer. I wanted to have a powerful voice so I could be heard.",
+      "nationality":"German",
+      "profession":"Actress",
+      "born":"1990-February-11",
+      "name":"Q'orianka Kilcher"
+   },
+   {
+      "quoteId":146,
+      "authorId":26,
+      "quote":"Why do you think my name is Artist? I'm an artist.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1995-December-6",
+      "name":"A Boogie wit da Hoodie"
+   },
+   {
+      "quoteId":147,
+      "authorId":30,
+      "quote":"I know that a lot of people take inspiration from the fact that I was just a common man with no film background who turned into a star.",
+      "nationality":"Indian",
+      "profession":"Actor",
+      "born":"1980-June-26",
+      "died":"2014-January-5",
+      "name":"Uday Kiran"
+   },
+   {
+      "quoteId":148,
+      "authorId":14,
+      "quote":"Roosevelt was the one who had the vision to change our policy from isolationism to world leadership. That was a terrific revolution. Our country's never been the same since.",
+      "nationality":"American",
+      "profession":"Politician",
+      "born":"1891-November-15",
+      "died":"1986-July-26",
+      "name":"W. Averell Harriman"
+   },
+   {
+      "quoteId":149,
+      "authorId":22,
+      "quote":"Enhancing a woman's silhouette and enhancing a woman's beauty - both contribute to enhancing her confidence, so they're synonymous, really.",
+      "nationality":"American",
+      "profession":"Designer",
+      "born":"1964-April-28",
+      "died":"2014-March-17",
+      "name":"L'Wren Scott"
+   },
+   {
+      "quoteId":150,
+      "authorId":24,
+      "quote":"It's a long road of paying your dues. Each and every person that's in this business has to go down that road. Some people may not have to. Some people may be given that road instantly because of who they are.",
+      "nationality":"American",
+      "profession":"Wrestler",
+      "born":"1972-January-19",
+      "name":"R-Truth"
+   },
+   {
+      "quoteId":151,
+      "authorId":18,
+      "quote":"I figured out early on what I wanted to do.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1948-January-14",
+      "name":"T Bone Burnett"
+   },
+   {
+      "quoteId":152,
+      "authorId":7,
+      "quote":"I know a lot of people who thrive on self-tapes, but for me, it does come down to first impressions. I like to be in the room, I like to talk to the people I'm acting with.",
+      "nationality":"American",
+      "profession":"Actor",
+      "born":"1988-August-19",
+      "name":"Y'lan Noel"
+   },
+   {
+      "quoteId":153,
+      "authorId":1,
+      "quote":"I know, when you make certain decision, you gotta know certain stuff gon' happen.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1992-October-22",
+      "name":"21 Savage"
+   },
+   {
+      "quoteId":154,
+      "authorId":8,
+      "quote":"The difference between burlesque and the newspapers is that the former never pretended to be performing a public service by exposure.",
+      "nationality":"American",
+      "profession":"Journalist",
+      "born":"1907-December-24",
+      "died":"1989-June-18",
+      "name":"I. F. Stone"
+   },
+   {
+      "quoteId":155,
+      "authorId":21,
+      "quote":"I'm not successful in Hollywood, and I probably would never be. I think Hollywood has such an interesting model for success, and it creates those successful people. I'm not in that chosen category, but what is successful for me is that, in spite of that, I've been able to work and do the things that I wrote down that I wanted to do and be.",
+      "profession":"Actress",
+      "born":"1952-December-25",
+      "name":"C. C. H. Pounder"
+   },
+   {
+      "quoteId":156,
+      "authorId":19,
+      "quote":"I got ice in my veins!",
+      "nationality":"American",
+      "profession":"Athlete",
+      "born":"1996-February-23",
+      "name":"D'Angelo Russell"
+   },
+   {
+      "quoteId":157,
+      "authorId":12,
+      "quote":"Vampires and teens have a lot in common. Teens have surging hormones, vampires have surging blood lust. Teenagers think they're immortal.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1960",
+      "name":"P. C. Cast"
+   },
+   {
+      "quoteId":158,
+      "authorId":6,
+      "quote":"It's always hard, when introducing readers to a new world/set of rules, not to lay it all out manual-style in the opening chapters but make sure to put the action and the characters at the front. If people don't become invested in them and in the story, the world in which it's set will become a burden.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1987-July-7",
+      "name":"V. E. Schwab"
+   },
+   {
+      "quoteId":159,
+      "authorId":10,
+      "quote":"I faced quite a few challenging times, and in front of those, I was more positive than some people not facing those conditions. I'm actually of the belief now that it is that struggle that offers you that open-hearted hope.",
+      "nationality":"Somali",
+      "profession":"Musician",
+      "born":"1978-February-1",
+      "name":"K'naan"
+   },
+   {
+      "quoteId":160,
+      "authorId":28,
+      "quote":"I'm single-minded. When I'm working on a project, all my attention is there.",
+      "nationality":"American",
+      "profession":"Director",
+      "born":"1969-July-17",
+      "name":"F. Gary Gray"
+   },
+   {
+      "quoteId":161,
+      "authorId":13,
+      "quote":"Like everyone I am sometimes tired, but if I need to run I will try to run.",
+      "nationality":"French",
+      "profession":"Athlete",
+      "born":"1991-March-29",
+      "name":"N'Golo Kante"
+   },
+   {
+      "quoteId":162,
+      "authorId":9,
+      "quote":"USC has really developed my love for the cinema.",
+      "nationality":"American",
+      "profession":"Actor",
+      "born":"1991-February-24",
+      "name":"O'Shea Jackson, Jr."
+   },
+   {
+      "quoteId":163,
+      "authorId":20,
+      "quote":"Carpe diem, you know.",
+      "nationality":"South Korean",
+      "profession":"Musician",
+      "born":"1988-August-18",
+      "name":"G-Dragon"
+   },
+   {
+      "quoteId":164,
+      "authorId":5,
+      "quote":"We're not just going to take some songs from a focus group in Nashville where people are sitting around in a circle having appointments trying to write catchy songs so they can sell them to a band like us.",
+      "nationality":"American",
+      "profession":"Musician",
+      "name":"Zac Brown"
+   },
+   {
+      "quoteId":165,
+      "authorId":21,
+      "quote":"The thing about being black and having a different accent, in the beginning, is that it makes you foreign.",
+      "profession":"Actress",
+      "born":"1952-December-25",
+      "name":"C. C. H. Pounder"
+   },
+   {
+      "quoteId":166,
+      "authorId":16,
+      "quote":"Nobody loves me but my mother, and she could be jivin', too.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1925-September-16",
+      "died":"2015-May-14",
+      "name":"B. B. King"
+   },
+   {
+      "quoteId":167,
+      "authorId":30,
+      "quote":"I am proud to say that I was launched in Tamil through 'Poi' by Balachander sir, who was the one who launched the legends like Rajni sir, Kamal sir & Prakash Raj sir.",
+      "nationality":"Indian",
+      "profession":"Actor",
+      "born":"1980-June-26",
+      "died":"2014-January-5",
+      "name":"Uday Kiran"
+   },
+   {
+      "quoteId":168,
+      "authorId":15,
+      "quote":"I don't get inspired by too many people because I like uniqueness. I'm a unique dude.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1967-November-15",
+      "name":"E-40"
+   },
+   {
+      "quoteId":169,
+      "authorId":20,
+      "quote":"G-Dragon is a fancy person. People don't expect the upright image of G-Dragon. Kwon Ji Yong is an introvert and has lots of things going on in his head.",
+      "nationality":"South Korean",
+      "profession":"Musician",
+      "born":"1988-August-18",
+      "name":"G-Dragon"
+   },
+   {
+      "quoteId":170,
+      "authorId":12,
+      "quote":"I don't write women who are weak or simpering.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1960",
+      "name":"P. C. Cast"
+   },
+   {
+      "quoteId":171,
+      "authorId":32,
+      "quote":"Shake was a dramatist of note; He lived by writing things to quote.",
+      "nationality":"American",
+      "profession":"Journalist",
+      "born":"1855-August-3",
+      "died":"1896-May-11",
+      "name":"H. C. Bunner"
+   },
+   {
+      "quoteId":172,
+      "authorId":27,
+      "quote":"The chips are in production, the machines aren't. So we've got a little bit of work left to do.",
+      "nationality":"American",
+      "profession":"Scientist",
+      "name":"J Allard"
+   },
+   {
+      "quoteId":173,
+      "authorId":26,
+      "quote":"I want to be the next legend.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1995-December-6",
+      "name":"A Boogie wit da Hoodie"
+   },
+   {
+      "quoteId":174,
+      "authorId":31,
+      "quote":"This is who I am: a flyspeck of human vanity in a trillion miles of stone-dead interstellar space; a graceless lump of flesh and fear in a remote desert where nearly everything that I can see or touch is designed to hurt me.",
+      "nationality":"American",
+      "profession":"Writer",
+      "name":"S. C. Gwynne"
+   },
+   {
+      "quoteId":175,
+      "authorId":28,
+      "quote":"I was a little hesitant at first because there's so many ways you can get 'Straight Outta Compton' wrong. You know, it's such a great story; it's such a classic tale. I was a little nervous 'cause it's like a very narrow road to success with that type of story - you got to get it right - but when I read it, I was pleasantly surprised.",
+      "nationality":"American",
+      "profession":"Director",
+      "born":"1969-July-17",
+      "name":"F. Gary Gray"
+   },
+   {
+      "quoteId":176,
+      "authorId":8,
+      "quote":"If God, as some now say, is dead, He no doubt died of trying to find an equitable solution to the Arab-Jewish problem.",
+      "nationality":"American",
+      "profession":"Journalist",
+      "born":"1907-December-24",
+      "died":"1989-June-18",
+      "name":"I. F. Stone"
+   },
+   {
+      "quoteId":177,
+      "authorId":7,
+      "quote":"What drives me is character driven material.",
+      "nationality":"American",
+      "profession":"Actor",
+      "born":"1988-August-19",
+      "name":"Y'lan Noel"
+   },
+   {
+      "quoteId":178,
+      "authorId":5,
+      "quote":"When I'm home, I'm Daddy, and everything is completely normal.",
+      "nationality":"American",
+      "profession":"Musician",
+      "name":"Zac Brown"
+   },
+   {
+      "quoteId":179,
+      "authorId":10,
+      "quote":"I wasn't making music consciously when I was younger. I was a musician, but that has its own stigmas. Anywhere on the planet, it's one of the more undervalued positions.",
+      "nationality":"Somali",
+      "profession":"Musician",
+      "born":"1978-February-1",
+      "name":"K'naan"
+   },
+   {
+      "quoteId":180,
+      "authorId":3,
+      "quote":"In Peru, if you gave somebody a little chance to do something, they took it to the furthest extent. They took nothing for granted. And here in L.A., you kind of get caught up in your own little dilemmas and your own little life.",
+      "nationality":"German",
+      "profession":"Actress",
+      "born":"1990-February-11",
+      "name":"Q'orianka Kilcher"
+   },
+   {
+      "quoteId":181,
+      "authorId":1,
+      "quote":"Most of the time, I just talk about me or what I experience.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1992-October-22",
+      "name":"21 Savage"
+   },
+   {
+      "quoteId":182,
+      "authorId":14,
+      "quote":"The war changed everybody's attitude. We became international almost overnight.",
+      "nationality":"American",
+      "profession":"Politician",
+      "born":"1891-November-15",
+      "died":"1986-July-26",
+      "name":"W. Averell Harriman"
+   },
+   {
+      "quoteId":183,
+      "authorId":33,
+      "quote":"If you have control of the midfield, you have control of the game, and you have more chances to win.",
+      "nationality":"Spanish",
+      "profession":"Athlete",
+      "born":"1981-November-25",
+      "name":"Xabi Alonso"
+   },
+   {
+      "quoteId":184,
+      "authorId":6,
+      "quote":"I am a firm believer that a good plot makes for a fun enough read, but it's not what binds us. If we don't care about the characters, we won't care - not in a lasting way - about what's happening to them.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1987-July-7",
+      "name":"V. E. Schwab"
+   },
+   {
+      "quoteId":185,
+      "authorId":18,
+      "quote":"I got out of high school, bought a recording studio and started operating it as an engineer and a producer.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1948-January-14",
+      "name":"T Bone Burnett"
+   },
+   {
+      "quoteId":186,
+      "authorId":22,
+      "quote":"When a garment is in sync with your body and its proportions, it looks and feels amazing, and in France that is something that all women know from a young age.",
+      "nationality":"American",
+      "profession":"Designer",
+      "born":"1964-April-28",
+      "died":"2014-March-17",
+      "name":"L'Wren Scott"
+   },
+   {
+      "quoteId":187,
+      "authorId":25,
+      "quote":"My work is a game, a very serious game.",
+      "nationality":"Dutch",
+      "profession":"Artist",
+      "born":"1898-June-17",
+      "died":"1972-March-27",
+      "name":"M. C. Escher"
+   },
+   {
+      "quoteId":188,
+      "authorId":13,
+      "quote":"My failures were something for me - my first contact with professional football. Though it didn't go all that well, it's not a regret, it's just like that. But looking back, those failures helped me consider football differently, consider the professional game differently.",
+      "nationality":"French",
+      "profession":"Athlete",
+      "born":"1991-March-29",
+      "name":"N'Golo Kante"
+   },
+   {
+      "quoteId":189,
+      "authorId":9,
+      "quote":"I want to pursue a career in film.",
+      "nationality":"American",
+      "profession":"Actor",
+      "born":"1991-February-24",
+      "name":"O'Shea Jackson, Jr."
+   },
+   {
+      "quoteId":190,
+      "authorId":27,
+      "quote":"Right now, more people enjoy movies, music, television and movies than they do video games.",
+      "nationality":"American",
+      "profession":"Scientist",
+      "name":"J Allard"
+   },
+   {
+      "quoteId":191,
+      "authorId":18,
+      "quote":"My original idea was to produce and not make records myself.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1948-January-14",
+      "name":"T Bone Burnett"
+   },
+   {
+      "quoteId":192,
+      "authorId":5,
+      "quote":"We've gone further on this album, where we have a Big Band song, kind of a Sinatra-type song; we have a couple songs that have electronic music on them. We've got a couple rock songs, maybe a little heavier than what we've done. So the title 'Jekyll & Hyde' really covers the breadth of the record.",
+      "nationality":"American",
+      "profession":"Musician",
+      "name":"Zac Brown"
+   },
+   {
+      "quoteId":193,
+      "authorId":3,
+      "quote":"I prefer home-schooling because you can work at your own pace and go towards more what you're interested in, whether it be history or geography or math.",
+      "nationality":"German",
+      "profession":"Actress",
+      "born":"1990-February-11",
+      "name":"Q'orianka Kilcher"
+   },
+   {
+      "quoteId":194,
+      "authorId":31,
+      "quote":"You want to know why there's a Texas Rangers? Well, here's the answer. You know how the six-gun came around? Well, here's the answer. You want to know why Mexicans allowed Americans to settle Texas in the first place? It was fear of Comanches.",
+      "nationality":"American",
+      "profession":"Writer",
+      "name":"S. C. Gwynne"
+   },
+   {
+      "quoteId":195,
+      "authorId":16,
+      "quote":"People all over the world have problems. And as long as people have problems, the blues can never die.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1925-September-16",
+      "died":"2015-May-14",
+      "name":"B. B. King"
+   },
+   {
+      "quoteId":196,
+      "authorId":14,
+      "quote":"Much of the aid we first gave to Russia we took away from what we promised Britain. So in a sense, Britain participated in a very real way in the recovery of Russia.",
+      "nationality":"American",
+      "profession":"Politician",
+      "born":"1891-November-15",
+      "died":"1986-July-26",
+      "name":"W. Averell Harriman"
+   },
+   {
+      "quoteId":197,
+      "authorId":1,
+      "quote":"I don't give a damn what I wear.",
+      "nationality":"American",
+      "profession":"Musician",
+      "born":"1992-October-22",
+      "name":"21 Savage"
+   },
+   {
+      "quoteId":198,
+      "authorId":30,
+      "quote":"I have worked very hard to shed away my chocolate boy image in order to get a tough look for this action entertainer. I am confident of my success and would love to dedicate the same to Director Balachandar sir.",
+      "nationality":"Indian",
+      "profession":"Actor",
+      "born":"1980-June-26",
+      "died":"2014-January-5",
+      "name":"Uday Kiran"
+   },
+   {
+      "quoteId":199,
+      "authorId":6,
+      "quote":"I almost always start with setting! I have to know the world before I know how to populate it. I have a tendency to play with doors - between life and death, human and monster, mundane and magic - and with 'ADSOM,' I knew I wanted to play with the physical doors between worlds.",
+      "nationality":"American",
+      "profession":"Author",
+      "born":"1987-July-7",
+      "name":"V. E. Schwab"
+   },
+   {
+      "quoteId":200,
+      "authorId":32,
+      "quote":"Shakespeare was a dramatist of note who lived by writing things to quote.",
+      "nationality":"American",
+      "profession":"Journalist",
+      "born":"1855-August-3",
+      "died":"1896-May-11",
+      "name":"H. C. Bunner"
+   }
+]
