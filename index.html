@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Postman Clone</title>
+</head>
+<body>
+  <h1>Postman Clone</h1>
+  <label for="url">URL:</label>
+  <input type="text" id="url" placeholder="Enter URL"><br>
+  <label for="method">HTTP Method:</label>
+  <select id="method">
+    <option value="GET">GET</option>
+    <option value="POST">POST</option>
+    <option value="PUT">PUT</option>
+    <option value="DELETE">DELETE</option>
+  </select><br>
+  <label for="headers">Headers (JSON):</label>
+  <textarea id="headers" rows="4" cols="50" placeholder="Enter headers JSON"></textarea><br>
+  <label for="auth">Authentication (Basic Auth):</label>
+  <input type="text" id="auth" placeholder="Username:Password"><br>
+  <label for="payload">Request Payload (for POST/PUT):</label>
+  <textarea id="payload" rows="4" cols="50" placeholder="Enter JSON payload"></textarea><br>
+  <button id="sendRequest">Send Request</button>
+  <div id="response"></div>
+
+  <script src="postman.js"></script>
+</body>
+</html>
