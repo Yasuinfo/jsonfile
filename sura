@@ -1,0 +1,686 @@
+[
+{
+"suraId": 1,
+"suraArabic": "الفاتحة",
+"suraAmharic": "አል-ፋቲሐህ",
+"amharicTranslate": "መክፈቻ"
+},
+{
+"suraId": 2,
+"suraArabic": "البقرة",
+"suraAmharic": "አል-በቀራ",
+"amharicTranslate": "የላሚትዋ ምዕራፍ"
+},
+{
+"suraId": 3,
+"suraArabic": "آل عمران",
+"suraAmharic": "አሊ-ዒምራን",
+"amharicTranslate": "የዒምራን ቤተሰብ ምዕራፍ"
+},
+{
+"suraId": 4,
+"suraArabic": "النساء",
+"suraAmharic": "አል-ኒሳእ",
+"amharicTranslate": "የሴቶቹ ምዕራፍ"
+},
+{
+"suraId": 5,
+"suraArabic": "المائدة",
+"suraAmharic": "አል-ማኢዳህ",
+"amharicTranslate": "የማእድ ምዕራፍ"
+},
+{
+"suraId": 6,
+"suraArabic": "الأنعام",
+"suraAmharic": "አል-አንዓም",
+"amharicTranslate": "የቤት እንሰሳዎች ምዕራፍ"
+},
+{
+"suraId": 7,
+"suraArabic": "الأعراف",
+"suraAmharic": "አል-አዕራፍ",
+"amharicTranslate": "የአል-አዕራፍ ምዕራፍ"
+},
+{
+"suraId": 8,
+"suraArabic": "الأنفال",
+"suraAmharic": "አል-አንፋል",
+"amharicTranslate": "የጦር ዘረፋዎች ምዕራፍ"
+},
+{
+"suraId": 9,
+"suraArabic": "التوبة",
+"suraAmharic": "አል-ተውባህ",
+"amharicTranslate": "የንስሐ ምዕራፍ"
+},
+{
+"suraId": 10,
+"suraArabic": "يونس",
+"suraAmharic": "ዩኑስ",
+"amharicTranslate": "የዮናስ ምዕራፍ"
+},
+{
+"suraId": 11,
+"suraArabic": "هود",
+"suraAmharic": "ሁድ",
+"amharicTranslate": "የሁድ ምዕራፍ"
+},
+{
+"suraId": 12,
+"suraArabic": "يوسف",
+"suraAmharic": "ዩሱፍ",
+"amharicTranslate": "የዮሴፍ ምዕራፍ"
+},
+{
+"suraId": 13,
+"suraArabic": "الرعد",
+"suraAmharic": "አል-ረዕድ",
+"amharicTranslate": "የነጎድጓድ ምዕራፍ"
+},
+{
+"suraId": 14,
+"suraArabic": "ابراهيم",
+"suraAmharic": "ኢብራሂም",
+"amharicTranslate": "የአብርሃም ምዕራፍ"
+},
+{
+"suraId": 15,
+"suraArabic": "الحجر",
+"suraAmharic": "አል-ሒጅር",
+"amharicTranslate": "የሒጅር ምዕራፍ"
+},
+{
+"suraId": 16,
+"suraArabic": "النحل",
+"suraAmharic": "አል-ነሕል",
+"amharicTranslate": "የንብ ምዕራፍ"
+},
+{
+"suraId": 17,
+"suraArabic": "الإسراء",
+"suraAmharic": "አል-ኢስራእ",
+"amharicTranslate": "የሌሊት ጉዞ ምዕራፍ"
+},
+{
+"suraId": 18,
+"suraArabic": "الكهف",
+"suraAmharic": "አል ከህፍ",
+"amharicTranslate": "የዋሻው ምዕራፍ"
+},
+{
+"suraId": 19,
+"suraArabic": "مريم",
+"suraAmharic": "መርየም",
+"amharicTranslate": "የማርያም ምዕራፍ"
+},
+{
+"suraId": 20,
+"suraArabic": "طه",
+"suraAmharic": "ጣሀ",
+"amharicTranslate": "የጣሀ ምዕራፍ"
+},
+{
+"suraId": 21,
+"suraArabic": "الأنبياء",
+"suraAmharic": "አል-አንቢያ",
+"amharicTranslate": "የነቢያት ምዕራፍ"
+},
+{
+"suraId": 22,
+"suraArabic": "الحج",
+"suraAmharic": "አል-ሐጅ",
+"amharicTranslate": "የሐጅ ምዕራፍ"
+},
+{
+"suraId": 23,
+"suraArabic": "المؤمنون",
+"suraAmharic": "አል-ሙእሚኑን",
+"amharicTranslate": "የምእመናን ምዕራፍ"
+},
+{
+"suraId": 24,
+"suraArabic": "النور",
+"suraAmharic": "አል-ኑር",
+"amharicTranslate": "የብርሃን ምዕራፍ"
+},
+{
+"suraId": 25,
+"suraArabic": "الفرقان",
+"suraAmharic": "አል-ፉርቃን",
+"amharicTranslate": "እውነትን ከውሸት የመለየት ምዕራፍ"
+},
+{
+"suraId": 26,
+"suraArabic": "الشعراء",
+"suraAmharic": "አሹዐራ",
+"amharicTranslate": "የባለቅኔዎች ምዕራፍ"
+},
+{
+"suraId": 27,
+"suraArabic": "النمل",
+"suraAmharic": "አል-ነምል",
+"amharicTranslate": "የጉንዳን ምዕራፍ"
+},
+{
+"suraId": 28,
+"suraArabic": "القصص",
+"suraAmharic": "አል-ቀሶስ",
+"amharicTranslate": "የዜናዎች ምዕራፍ"
+},
+{
+"suraId": 29,
+"suraArabic": "العنكبوت",
+"suraAmharic": "አል-ዐንከቡት",
+"amharicTranslate": "የሸረሪት ምዕራፍ"
+},
+{
+"suraId": 30,
+"suraArabic": "الروم",
+"suraAmharic": "አል-ሩም",
+"amharicTranslate": "የሮም ምዕራፍ"
+},
+{
+"suraId": 31,
+"suraArabic": "لقمان",
+"suraAmharic": "ሉቅማን",
+"amharicTranslate": "የሉቅማን ምዕራፍ"
+},
+{
+"suraId": 32,
+"suraArabic": "السجدة",
+"suraAmharic": "አል-ሰጅዳህ",
+"amharicTranslate": "የስግደት ምዕራፍ"
+},
+{
+"suraId": 33,
+"suraArabic": "الأحزاب",
+"suraAmharic": "አል-አሕዛብ",
+"amharicTranslate": "የአሕዛብ ምዕራፍ"
+},
+{
+"suraId": 34,
+"suraArabic": "سبإ",
+"suraAmharic": "ሰበእ",
+"amharicTranslate": "የሰበእ ምዕራፍ"
+},
+{
+"suraId": 35,
+"suraArabic": "فاطر",
+"suraAmharic": "አል-ፈጢር",
+"amharicTranslate": "የፈጣሪዋ ምዕራፍ"
+},
+{
+"suraId": 36,
+"suraArabic": "يس",
+"suraAmharic": "ያሲን",
+"amharicTranslate": "የያሲን ምዕራፍ"
+},
+{
+"suraId": 37,
+"suraArabic": "الصافات",
+"suraAmharic": "አል-ሷፍፋት",
+"amharicTranslate": "የተሰላፊዎቹ ምዕራፍ"
+},
+{
+"suraId": 38,
+"suraArabic": "ص",
+"suraAmharic": "ሷድ",
+"amharicTranslate": "የሷድ ምዕራፍ"
+},
+{
+"suraId": 39,
+"suraArabic": "الزمر",
+"suraAmharic": "አል-ዙመር",
+"amharicTranslate": "የጭፍራዎች ምዕራፍ"
+},
+{
+"suraId": 40,
+"suraArabic": "غافر",
+"suraAmharic": "አል-ጋፊር",
+"amharicTranslate": "የመሐሪ ምዕራፍ"
+},
+{
+"suraId": 41,
+"suraArabic": "فصلت",
+"suraAmharic": "አል-ፉሲለት",
+"amharicTranslate": "የተብራሩ(የተተነተኑ) ምዕራፍ"
+},
+{
+"suraId": 42,
+"suraArabic": "الشورى",
+"suraAmharic": "አል-ሹራ",
+"amharicTranslate": "የመመካከር ምዕራፍ"
+},
+{
+"suraId": 43,
+"suraArabic": "الزخرف",
+"suraAmharic": "አል-ዙኽሩፍ",
+"amharicTranslate": "የጌጣ ጌጥ ምዕራፍ"
+},
+{
+"suraId": 44,
+"suraArabic": "الدخان",
+"suraAmharic": "አል-ዱኻን",
+"amharicTranslate": "የጭስ ምዕራፍ"
+},
+{
+"suraId": 45,
+"suraArabic": "الجاثية",
+"suraAmharic": "አል-ጃሢያህ",
+"amharicTranslate": "የተንበርካኪ ምዕራፍ"
+},
+{
+"suraId": 46,
+"suraArabic": "الأحقاف",
+"suraAmharic": "አል-አሕቃፍ",
+"amharicTranslate": "የአሸዋዎች ምዕራፍ"
+},
+{
+"suraId": 47,
+"suraArabic": "محمد",
+"suraAmharic": "ሙሐመድ",
+"amharicTranslate": "የሙሐመድ ምዕራፍ"
+},
+{
+"suraId": 48,
+"suraArabic": "الفتح",
+"suraAmharic": "አል ፈትሕ",
+"amharicTranslate": "አገር የመክፈት ምዕራፍ"
+},
+{
+"suraId": 49,
+"suraArabic": "الحجرات",
+"suraAmharic": "አል-ሁጁራት",
+"amharicTranslate": "የቤት ክፍሎች ምዕራፍ"
+},
+{
+"suraId": 50,
+"suraArabic": "ق",
+"suraAmharic": "ቃፍ",
+"amharicTranslate": "የቃፍ ምዕራፍ"
+},
+{
+"suraId": 51,
+"suraArabic": "الذاريات",
+"suraAmharic": "አል-ዛሪያት",
+"amharicTranslate": "የበታኞች ምዕራፍ"
+},
+{
+"suraId": 52,
+"suraArabic": "الطور",
+"suraAmharic": "አል ጡር",
+"amharicTranslate": "የጡር ምዕራፍ"
+},
+{
+"suraId": 53,
+"suraArabic": "النجم",
+"suraAmharic": "አል-ነጅም",
+"amharicTranslate": "የኮከብ ምዕራፍ"
+},
+{
+"suraId": 54,
+"suraArabic": "القمر",
+"suraAmharic": "አል-ቀመር",
+"amharicTranslate": "የጨረቃ ምዕራፍ"
+},
+{
+"suraId": 55,
+"suraArabic": "الرحمن",
+"suraAmharic": "አል ረሕማን",
+"amharicTranslate": "የርኅሩሁ ምዕራፍ"
+},
+{
+"suraId": 56,
+"suraArabic": "الواقعة",
+"suraAmharic": "አል-ዋቂዓህ",
+"amharicTranslate": "የመከራይቱ ቀን ምዕራፍ"
+},
+{
+"suraId": 57,
+"suraArabic": "الحديد",
+"suraAmharic": "አል-ሐዲድ",
+"amharicTranslate": "የብረት ምዕራፍ"
+},
+{
+"suraId": 58,
+"suraArabic": "المجادلة",
+"suraAmharic": "አል-ሙጀድላህ",
+"amharicTranslate": "የመከራከር ምዕራፍ"
+},
+{
+"suraId": 59,
+"suraArabic": "الحشر",
+"suraAmharic": "አል-ሐሽር",
+"amharicTranslate": "ከአገር የማውጣት ምዕራፍ"
+},
+{
+"suraId": 60,
+"suraArabic": "الممتحنة",
+"suraAmharic": "አል-ሙምተሒናህ",
+"amharicTranslate": "የፈታኚቱ ምዕራፍ"
+},
+{
+"suraId": 61,
+"suraArabic": "الصف",
+"suraAmharic": "አል-ሶፍ",
+"amharicTranslate": "የሰልፍ ምዕራፍ"
+},
+{
+"suraId": 62,
+"suraArabic": "الجمعة",
+"suraAmharic": "አል- ጁሙዓህ",
+"amharicTranslate": "የዐርብ ምዕራፍ"
+},
+{
+"suraId": 63,
+"suraArabic": "المنافقون",
+"suraAmharic": "አል-ሙናፊቁን",
+"amharicTranslate": "የመናፍቃን ምዕራፍ"
+},
+{
+"suraId": 64,
+"suraArabic": "التغابن",
+"suraAmharic": "አተጋቡን",
+"amharicTranslate": "የመጎዳዳት ምዕራፍ"
+},
+{
+"suraId": 65,
+"suraArabic": "الطلاق",
+"suraAmharic": "አል-ጦላቅ",
+"amharicTranslate": "የፍች ምዕራፍ"
+},
+{
+"suraId": 66,
+"suraArabic": "التحريم",
+"suraAmharic": "አል-ተሕሪም",
+"amharicTranslate": "የማውገዝ ምዕራፍ"
+},
+{
+"suraId": 67,
+"suraArabic": "الملك",
+"suraAmharic": "አል-ሙልክ",
+"amharicTranslate": "የንግሥና ምዕራፍ"
+},
+{
+"suraId": 68,
+"suraArabic": "القلم",
+"suraAmharic": "አል-ቀለም",
+"amharicTranslate": "የብርዕ ምዕራፍ"
+},
+{
+"suraId": 69,
+"suraArabic": "الحاقة",
+"suraAmharic": "አል ሐቃህ",
+"amharicTranslate": "የአረጋጋጪቱ ምዕራፍ"
+},
+{
+"suraId": 70,
+"suraArabic": "المعارج",
+"suraAmharic": "አል-መዓሪጅ",
+"amharicTranslate": "የመሰላሎች ምዕራፍ"
+},
+{
+"suraId": 71,
+"suraArabic": "نوح",
+"suraAmharic": "ኑሕ",
+"amharicTranslate": "የኑሕ ምዕራፍ"
+},
+{
+"suraId": 72,
+"suraArabic": "الجن",
+"suraAmharic": "አል-ጂን",
+"amharicTranslate": "የጋኔን ምዕራፍ"
+},
+{
+"suraId": 73,
+"suraArabic": "المزمل",
+"suraAmharic": "አል-ሙዘሚል",
+"amharicTranslate": "የተከናናቢው ምዕራፍ"
+},
+{
+"suraId": 74,
+"suraArabic": "المدثر",
+"suraAmharic": "አል-ሙደሢር",
+"amharicTranslate": "የልብስ ደራቢው ምዕራፍ"
+},
+{
+"suraId": 75,
+"suraArabic": "القيامة",
+"suraAmharic": "አል-ቂያማህ",
+"amharicTranslate": "የትንሣኤ ምዕራፍ"
+},
+{
+"suraId": 76,
+"suraArabic": "الانسان",
+"suraAmharic": "አል-ኢንሳን",
+"amharicTranslate": "የሰው ምዕራፍ"
+},
+{
+"suraId": 77,
+"suraArabic": "المرسلات",
+"suraAmharic": "አል ሙርሰላት",
+"amharicTranslate": "የተላኪዎች ምዕራፍ"
+},
+{
+"suraId": 78,
+"suraArabic": "النبإ",
+"suraAmharic": "አል-ነበእ",
+"amharicTranslate": "የዜናው ምዕራፍ"
+},
+{
+"suraId": 79,
+"suraArabic": "النازعات",
+"suraAmharic": "አል-ናዚዓት",
+"amharicTranslate": "የአውጪዎች ምዕራፍ"
+},
+{
+"suraId": 80,
+"suraArabic": "عبس",
+"suraAmharic": "ዐበሰ",
+"amharicTranslate": "የማጨፍገግ ምዕራፍ"
+},
+{
+"suraId": 81,
+"suraArabic": "التكوير",
+"suraAmharic": "አል-ተክዊር",
+"amharicTranslate": "የመጠቅለል ምዕራፍ"
+},
+{
+"suraId": 82,
+"suraArabic": "الإنفطار",
+"suraAmharic": "አል-ኢንፊጣር",
+"amharicTranslate": "የመሰንጠቅ ምዕራፍ"
+},
+{
+"suraId": 83,
+"suraArabic": "المطففين",
+"suraAmharic": "አል-ሙጠፍፊን",
+"amharicTranslate": "የሰላቢውች ምዕራፍ"
+},
+{
+"suraId": 84,
+"suraArabic": "الإنشقاق",
+"suraAmharic": "አል-ኢንሺቃቅ",
+"amharicTranslate": "የመቀደድ ምዕራፍ"
+},
+{
+"suraId": 85,
+"suraArabic": "البروج",
+"suraAmharic": "አል-ቡሩጅ",
+"amharicTranslate": "የቡርጆች ምዕራፍ"
+},
+{
+"suraId": 86,
+"suraArabic": "الطارق",
+"suraAmharic": "አል-ጣሪቅ",
+"amharicTranslate": "የሌሊት መጪው ምዕራፍ"
+},
+{
+"suraId": 87,
+"suraArabic": "الأعلى",
+"suraAmharic": "አል-አዕላ",
+"amharicTranslate": "የበላይ አሸናፊዉ ምዕራፍ"
+},
+{
+"suraId": 88,
+"suraArabic": "الغاشية",
+"suraAmharic": "አል-ጋሺያህ",
+"amharicTranslate": "የሸፋኝቱ ምዕራፍ"
+},
+{
+"suraId": 89,
+"suraArabic": "الفجر",
+"suraAmharic": "አል-ፈጅር",
+"amharicTranslate": "የጎህ ምዕራፍ"
+},
+{
+"suraId": 90,
+"suraArabic": "البلد",
+"suraAmharic": "አል-በለድ",
+"amharicTranslate": "የሀገር ምዕራፍ"
+},
+{
+"suraId": 91,
+"suraArabic": "الشمس",
+"suraAmharic": "አል-ሸምስ",
+"amharicTranslate": "የፀሐይ ምዕራፍ"
+},
+{
+"suraId": 92,
+"suraArabic": "الليل",
+"suraAmharic": "አል-ለይል",
+"amharicTranslate": "የሌሊት ምዕራፍ"
+},
+{
+"suraId": 93,
+"suraArabic": "الضحى",
+"suraAmharic": "አል ዱሃ",
+"amharicTranslate": "የረፋድ ምዕራፍ"
+},
+{
+"suraId": 94,
+"suraArabic": "الشرح",
+"suraAmharic": "አል-ኢሻራሕ",
+"amharicTranslate": "የልብ መስፋት ምዕራፍ"
+},
+{
+"suraId": 95,
+"suraArabic": "التين",
+"suraAmharic": "አል-ቲን",
+"amharicTranslate": "የበለስ ምዕራፍ"
+},
+{
+"suraId": 96,
+"suraArabic": "العلق",
+"suraAmharic": "አል-ዐለቅ",
+"amharicTranslate": "የረጋ ደም ምዕራፍ"
+},
+{
+"suraId": 97,
+"suraArabic": "القدر",
+"suraAmharic": "አል-ቀድር",
+"amharicTranslate": "የውሳኔ ምዕራፍ"
+},
+{
+"suraId": 98,
+"suraArabic": "البينة",
+"suraAmharic": "አል-በይናህ",
+"amharicTranslate": "የግልፅ አስረጅ ምዕራፍ"
+},
+{
+"suraId": 99,
+"suraArabic": "الزلزلة",
+"suraAmharic": "አል-ዘልዘላህ",
+"amharicTranslate": "የምድር መንቀጥቀጥ ምዕራፍ"
+},
+{
+"suraId": 100,
+"suraArabic": "العاديات",
+"suraAmharic": "አል-ዓዲያት",
+"amharicTranslate": "የሩዋጮች ምዕራፍ"
+},
+{
+"suraId": 101,
+"suraArabic": "القارعة",
+"suraAmharic": "አል-ቃሪዓህ",
+"amharicTranslate": "የቆርቋሪይቱ ምዕራፍ"
+},
+{
+"suraId": 102,
+"suraArabic": "التكاثر",
+"suraAmharic": "አል-ተካሡር",
+"amharicTranslate": "በብዛት የመፎካከር ምዕራፍ"
+},
+{
+"suraId": 103,
+"suraArabic": "العصر",
+"suraAmharic": "አል-ዐስር",
+"amharicTranslate": "የጊዜያት ምዕራፍ"
+},
+{
+"suraId": 104,
+"suraArabic": "الهمزة",
+"suraAmharic": "አል-ሁመዛህ",
+"amharicTranslate": "የአሚተኛ ምዕራፍ"
+},
+{
+"suraId": 105,
+"suraArabic": "الفيل",
+"suraAmharic": "አል-ፊል",
+"amharicTranslate": "የዝኆን ምዕራፍ"
+},
+{
+"suraId": 106,
+"suraArabic": "قريش",
+"suraAmharic": "አል-ቁረይሽ",
+"amharicTranslate": "የቁረሾች ምዕራፍ"
+},
+{
+"suraId": 107,
+"suraArabic": "الماعون",
+"suraAmharic": "አል-ማዑን",
+"amharicTranslate": "የዕቃ ትውስት ምዕራፍ"
+},
+{
+"suraId": 108,
+"suraArabic": "الكوثر",
+"suraAmharic": "አል-ከውሠር",
+"amharicTranslate": "የበጎ ነገሮች ምዕራፍ"
+},
+{
+"suraId": 109,
+"suraArabic": "الكافرون",
+"suraAmharic": "አል-ካፊሩን",
+"amharicTranslate": "የከሓዲዎች ምዕራፍ"
+},
+{
+"suraId": 110,
+"suraArabic": "النصر",
+"suraAmharic": "አል-ነስር",
+"amharicTranslate": "የዕርዳታ ምዕራፍ"
+},
+{
+"suraId": 111,
+"suraArabic": "المسد",
+"suraAmharic": "አል-መሰድ",
+"amharicTranslate": "የጭረት ምዕራፍ"
+},
+{
+"suraId": 112,
+"suraArabic": "الإخلاص",
+"suraAmharic": "አል-ኢኽላስ",
+"amharicTranslate": "የፍጹምነት ምዕራፍ"
+},
+{
+"suraId": 113,
+"suraArabic": "الفلق",
+"suraAmharic": "አል-ፈለቅ",
+"amharicTranslate": "የተፈልቃቂው ምዕራፍ"
+},
+{
+"suraId": 114,
+"suraArabic": "الناس",
+"suraAmharic": "አል-ናስ",
+"amharicTranslate": "የሰዎች ምዕራፍ"
+}
+]
